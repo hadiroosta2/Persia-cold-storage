@@ -11,7 +11,10 @@ namespace Persia_cold_storage.Models
         [Key]
         public int ID { get; set; }
         [StringLength(50)]
-        public string name { get; set; }
+        public string UserName { get; set; }
+        public string PassWord { get; set; }
+        public string Email { get; set; }
+        public bool IsActive { get; set; }
 
     }
 }
