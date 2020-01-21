@@ -1,3 +1,4 @@
+E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\System.Web.Webpages.xml
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\Persia-cold-storage.dll.config
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\Persia-cold-storage.dll
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\Persia-cold-storage.pdb
@@ -12,10 +13,10 @@ E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\Sy
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\EntityFramework.xml
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\EntityFramework.SqlServer.xml
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\System.Web.Razor.xml
-E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\System.Web.Webpages.xml
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\System.Web.Webpages.Deployment.xml
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\System.Web.Webpages.Razor.xml
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\System.Web.Helpers.xml
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\bin\System.Web.Mvc.xml
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\obj\Debug\Persia-cold-storage.dll
 E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\obj\Debug\Persia-cold-storage.pdb
+E:\my project\Persia-cold-storage\Persia-cold-storage\Persia-cold-storage\obj\Debug\Persia-cold-storage.csprojResolveAssemblyReference.cache

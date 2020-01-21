@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8">
+    <title>@ViewBag.Title</title>
+    <!--bootsrap -->
+    <link rel="stylesheet" href="~/Content/css/bootstrap.min.css" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/Content/css/font-awesome.min.css" />
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/bootsrap.min.js"></script>
+    <link rel="stylesheet" href="~/Content/css/custom.css" />
+</head>
+<body>
+    <header>
+        <!-- Top Navbar -->
+        <div class="top_nav">
+            <div class="container">
+                <ul class="list-inline info">
+                    <li><a href="#"><span class="fa fa-phone"></span> 1234 - 5678 - 9012</a></li>
+                    <li><a href="#"><span class="fa fa-envelope"></span> persia.group.shiraz@gmail.com</a></li>
+                    <li><a href="#"><span class="fa fa-clock-o"></span> Mon - Sat 9:00 - 19:00</a></li>
+                </ul>
+                <ul class="list-inline social_icon">
+                    <li><a href=""><span class="fa fa-facebook"></span></a></li>
+                    <li><a href=""><span class="fa fa-twitter"></span></a></li>
+                    <li><a href=""><span class="fa fa-behance"></span></a></li>
+                    <li><a href=""><span class="fa fa-dribbble"></span></a></li>
+                    <li><a href=""><span class="fa fa-linkedin"></span></a></li>
+                    <li><a href=""><span class="fa fa-youtube"></span></a></li>
+                </ul>
+            </div>
+        </div><!-- Top Navbar end -->
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
