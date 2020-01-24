@@ -20,6 +20,10 @@ namespace Persia_cold_storage.Controllers
             return View(db.users.ToList());
         }
 
+        public ActionResult administrator()
+        {
+            return View();
+        }
         protected override void Dispose(bool disposing)
         {
             if (disposing)
@@ -28,5 +32,6 @@ namespace Persia_cold_storage.Controllers
             }
             base.Dispose(disposing);
         }
+
     }
 }
