@@ -18,3 +18,12 @@
     font-family:Vazir;
         font-size:large;
 }
+  h2,h1,p{
+    font-family:Vazir;
+        font-size:xx-large;
+}
+ .topNavItem{
+        font-family:Vazir;
+        font-size:small;
+        margin-left:5px;
+  }

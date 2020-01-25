@@ -92,6 +92,9 @@
     <Content Include="Content\css\jquery.fancybox.css" />
     <Content Include="Content\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\images\1.png" />
+    <Content Include="Content\images\logo0.jpg" />
+    <Content Include="Content\images\logo2.png" />
     <Content Include="Content\images\slider_img.jpg" />
     <Content Include="Content\images\slider_img2.jpg" />
     <Content Include="Content\images\slider_img3.jpg" />
